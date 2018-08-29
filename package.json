@@ -1,0 +1,18 @@
+{
+  "name": "com.mumakid.wifiplugin",
+  "version": "1.0.0",
+  "description": "",
+  "cordova": {
+    "id": "com.mumakid.wifiplugin",
+    "platforms": []
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.mumakid.com/Hades/cordova.plugins.WifiPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Demon",
+  "license": "ISC"
+}
