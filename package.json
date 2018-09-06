@@ -1,5 +1,5 @@
 {
-  "name": "com.mumakid.wifiplugin",
+  "name": "cordova-plugin-wifiplugin",
   "version": "1.0.0",
   "description": "",
   "cordova": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://gitlab.mumakid.com/Hades/cordova.plugins.WifiPlugin.git"
+    "url": "https://github.com/gaara0816/WifiPlugin.git"
   },
   "keywords": [
     "ecosystem:cordova"

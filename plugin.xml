@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="com.mumakid.wifiplugin" version="1.0.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android" id="cordova-plugin-wifiplugin" version="1.0.0">
   <name>WifiPlugin</name>
   <js-module name="WifiPlugin" src="www/WifiPlugin.js">
     <clobbers target="cordova.plugins.WifiPlugin"/>
